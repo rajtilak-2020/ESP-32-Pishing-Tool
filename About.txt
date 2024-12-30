@@ -1,0 +1,1 @@
+This project creates a WiFi login portal for the mentioned SSID Network , allowing victims to log in with their email and password to gain access to the fake network. The portal runs on an ESP32 board and utilizes the WiFiMulti, DNSServer, and WebServer libraries to handle network requests and DNS spoofing.
