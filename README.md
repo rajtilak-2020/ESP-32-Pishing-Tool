@@ -47,10 +47,10 @@ Before using this project, make sure you have the following installed:
 - Admins can view all logged credentials (referred to as "victims") and clear them when needed.
 
 ### Endpoints:
-- `/`: Displays the login page
-- `/post`: Handles the login form submission
-- `/pass`: Displays the list of credentials
-- `/clear`: Clears the logged credentials
+- `http://172.0.0.1/`: Displays the login page
+- `http://172.0.0.1/post`: Handles the login form submission
+- `http://172.0.0.1/pass`: Displays the list of credentials
+- `http://172.0.0.1/clear`: Clears the logged credentials
 
 ## Customization
 
